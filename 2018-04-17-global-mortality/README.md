@@ -4,8 +4,7 @@ I decided to attempt to make some [sparklines](https://www.edwardtufte.com/bboar
 
 I started off considering death by Cardiovascular diseases. 
 
-I wrote some code which identified the 5 countries which the largest increase in share of death by cardiovascular diseases, and also the 5 countries with the largest decrease.
-These 10 countries were then plotted as a sparkline, with the minimum and maximum values highlighted. 
+I wrote some code which identified the 5 countries with the largest increase in share of death by cardiovascular diseases, and also the 5 countries with the largest decrease. These 10 countries were then plotted as a sparkline, with the minimum and maximum values highlighted. 
 
 I then wrapped this code as a function, and generated plots for all possible causes of death to look for interesting findings. 
 
