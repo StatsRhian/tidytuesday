@@ -1,9 +1,4 @@
----
-title: "Global Mortality"
-author: "Rhian Davies"
-date: "17 April 2018"
-output: html_document
----
+# Global Mortality
 
 I decided to attempt to make some [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR) graphics. I used code from [Dr Lukasz Piwek](https://twitter.com/lukaszpiwek) and his [Tufte in R](http://www.motioninsocial.com/tufte/#sparklines) project. It's a great project and I hope I get chance to play with some of the other plots in the future.
 
@@ -14,7 +9,7 @@ These 10 countries were then plotted as a sparkline, with the minimum and maximu
 
 I then wrapped this code as a function, and generated plots for all possible causes of death to look for interesting findings. 
 
-![](figures/sparkline-Cardiovascular diseases.png)
+![](https://github.com/trianglegirl/r4ds/blob/master/2018-04-17-global-mortality/figures/sparkline-Cardiovascular%20diseases.png)
 
 As a quick plot, I'm fairly happy with this. However, as always there are many ways to improve. 
 
