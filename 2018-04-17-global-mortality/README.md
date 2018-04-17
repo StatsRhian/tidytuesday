@@ -5,10 +5,6 @@ date: "17 April 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-```
-
 I decided to attempt to make some [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR) graphics. I used code from [Dr Lukasz Piwek](https://twitter.com/lukaszpiwek) and his [Tufte in R](http://www.motioninsocial.com/tufte/#sparklines) project. It's a great project and I hope I get chance to play with some of the other plots in the future.
 
 I started off considering death by Cardiovascular diseases. 
